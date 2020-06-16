@@ -4,7 +4,7 @@ import InfoBlockDetails from './InfoBlockDetails'
 
 function InfoBlock() {
   return (
-    <div className="row">
+    <div className="row mt-4">
       <div className="col-3"></div>
           
         <div className="col-6">

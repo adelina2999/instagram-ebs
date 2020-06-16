@@ -3,7 +3,7 @@ import instagramLogo from '../Assets/logo-text.png'
 
 function Header() {
   return (
-    <div className="bg-light pt-2 pb-2">
+    <div className="bg-light pt-2 pb-2 border-bottom">
         <div className="row">
 
           <div className="col d-flex justify-content-center">

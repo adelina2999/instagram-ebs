@@ -1,33 +1,15 @@
 .instagram-logo {
-    height: 30px;
-    width: 100px;
+  height: 30px;
+  width: 100px;
 }
 
 .profile-picture {
-    height: 150px;
-    width: 150px;
+  height: 150px;
+  width: 150px;
 }
 
-* {
-    box-sizing: border-box;
-  }
-  
-  .column {
-    float: left;
-    padding: 10px;
-    height: 300px;
-  }
-  
-  .left, .right {
-    width: 25%;
-  }
-  
-  .middle {
-    width: 50%;
-  }
-  
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+.profile-name {
+  font-size: 28px;
+  line-height: 32px;
+  margin: 0 -26px;
+}

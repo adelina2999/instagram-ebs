@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePicture from '../../Assets/profile.png';
+import profilePicture from '../../Assets/profile.jpg';
 
 function InfoBlockStories() {
   return (

@@ -1,10 +1,10 @@
 import React from 'react';
-import profilePicture from '../../Assets/profile.png';
+import profilePicture from '../../Assets/profile.jpg';
 
 function InfoBlockDetailsProfileImage() {
   return (
-    <div className="col">
-      <img src={profilePicture} alt="Profile" className="rounded-circle profile-picture"/>
+    <div className="col-4">
+      <img src={profilePicture} alt="Profile" className="rounded-circle profile-picture border"/>
     </div>
 
   );
