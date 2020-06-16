@@ -11,7 +11,7 @@ function App() {
       <Header></Header>
       <InfoBlock></InfoBlock>
       <ProfilePhotos></ProfilePhotos>
-      <PopUp></PopUp>
+      {/* <PopUp></PopUp> */}
     </div>
   );
 }
