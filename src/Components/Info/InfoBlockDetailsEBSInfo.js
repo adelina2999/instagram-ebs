@@ -17,21 +17,21 @@ function InfoBlockDetailsEBSInfo() {
       <div className="row">
 
         <div className="col">
-          <h5>106 posts</h5>
+          <h6><b>106</b> posts</h6>
         </div>
 
         <div className="col">
-          <h5>178 followers</h5>
+          <h6><b>178</b> followers</h6>
         </div>
 
         <div className="col">
-          <h5>182 following</h5>
+          <h6><b>182</b> following</h6>
         </div>
 
       </div>
 
       <span>
-        EBS Integrator
+        <b>EBS Integrator</b>
       </span>
 
       <ul>
