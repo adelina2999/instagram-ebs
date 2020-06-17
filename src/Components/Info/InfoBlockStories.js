@@ -4,7 +4,7 @@ import profilePicture from '../../Assets/profile.jpg';
 function InfoBlockStories() {
   return (
     <div className="row">
-      <div className="p-4ggi">
+      <div className="p-4">
         <img src={profilePicture} alt="Profile" className="rounded-circle story-picture p-1 border"/>
         <h6>Inside EBS</h6>
       </div>

@@ -34,7 +34,7 @@ function InfoBlockDetailsEBSInfo() {
         <b>EBS Integrator</b>
       </span>
 
-      <ul>
+      <ul className="ul">
         <li>MVP Builds</li>
         <li>Feature Web and Mobile Production </li>
         <li>Application Refactoring </li>
